@@ -2,8 +2,8 @@ import paho.mqtt.client as mqtt
 import time
 
 
-BROKER = "broker.hivemq.com"  # Public HiveMQ broker
-PORT = 1883                  # Default MQTT port
+BROKER =  "localhost"           #"broker.hivemq.com"  # Public HiveMQ broker
+PORT = 1885                  # Default MQTT port
 TOPIC = "temperature/1"      # Topic to publish to
 
 

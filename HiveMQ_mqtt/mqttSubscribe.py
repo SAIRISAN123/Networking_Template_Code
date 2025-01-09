@@ -1,7 +1,7 @@
 import paho.mqtt.client as mqtt
 
-BROKER = "broker.hivemq.com"  
-PORT = 1883                  
+BROKER = "localhost" #"broker.hivemq.com"  
+PORT = 1885                  
 TOPIC = "temperature/1"      
 
 
