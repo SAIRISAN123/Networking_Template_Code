@@ -42,9 +42,6 @@ int main() {
 
         std::cout << "Received message: " << buffer << std::endl;
         
-        // Send a response back to the client
-        
-
         //UpperCase buffer
         for (int i = 0; i < strlen(buffer); i++) {
             buffer[i] = toupper(buffer[i]);
