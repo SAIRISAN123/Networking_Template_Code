@@ -1,0 +1,49 @@
+# Ignore build and temporary files
+/build/
+/bin/
+/obj/
+/out/
+/*.o
+/*.a
+/*.so
+/*.exe
+/*.out
+
+# Ignore IDE specific files (VS, CLion, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled and backup files
+*.log
+*.bak
+*.tmp
+
+# Ignore CMake build files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+Makefile.in
+*.cmake
+
+# Ignore other IDE files (e.g., Eclipse)
+.project
+.settings/
+*.launch
+
+# Ignore Python-related files (if applicable)
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore OS-related files
+*.swp
+*.swo
