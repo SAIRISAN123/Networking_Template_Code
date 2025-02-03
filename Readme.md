@@ -6,38 +6,38 @@ The repository covers a wide range of protocols, including:
 
  Application Layer Protocols
 
-    MQTT: Lightweight messaging protocol for IoT and real-time communication.
+   1. MQTT: Lightweight messaging protocol for IoT and real-time communication.
 
-    WebSockets: Full-duplex communication for real-time web applications.
+   2. WebSockets: Full-duplex communication for real-time web applications.
 
-    HTTP: Standard protocols for web communication.
+   3. HTTP: Standard protocols for web communication.
 
  Transport Layer Protocols
 
-    TCP: Reliable, connection-oriented communication.
+   1. TCP: Reliable, connection-oriented communication.
 
-    UDP: Low-latency, connectionless communication.
+   2. UDP: Low-latency, connectionless communication.
 
-    SCTP: Advanced protocol combining the best features of TCP and UDP, with support for multi-streaming and multi-homing.
+   3. SCTP: Advanced protocol combining the best features of TCP and UDP, with support for multi-streaming and multi-homing.
 
  Platform-Specific Implementations
 
-    NodeMCU: Networking examples for IoT devices using ESP8266/ESP32 MQTT (C++).
+   1. NodeMCU: Networking examples for IoT devices using ESP8266/ESP32 MQTT (C++).
 
-    Unity: Networking templates for game development and real-time applications websocket(C#).
+   2. Unity: Networking templates for game development and real-time applications webSocket (C#).
 
 
 
 
 ## Why Use This Repository?
 
-    Ready-to-use templates: Save time with pre-built, well-documented code.
+   Ready-to-use templates: Save time with pre-built, well-documented code.
 
-    Cross-platform support: Examples for various programming languages and platforms.
+   Cross-platform support: Examples for various programming languages and platforms.
 
-    Beginner-friendly: Clear explanations and step-by-step guides.
+   Beginner-friendly: Clear explanations and step-by-step guides.
 
-    Scalable: Suitable for small projects and large-scale applications.
+   Scalable: Suitable for small projects and large-scale applications.
 
 
 
